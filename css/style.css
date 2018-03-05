@@ -1,0 +1,32 @@
+body{
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+   font-family: 'Krona One', sans-serif;
+
+  }
+
+  main {
+    flex: 1 0 auto;
+  }
+
+   .parallax-container {
+      height: "your height here";
+    }
+ .parrafos{
+
+ 	text-align: justify;
+ 	margin-right:5%;
+ 	margin-left: 5% ;
+ 	padding-left: 3%;
+ 	padding-right: 3%;
+ 	padding: 2%;
+ 	text
+ }
+ .parrafos p{
+ 	margin: 5%;
+ }
+ .parrafos h4{
+
+ 	margin: 3%;
+ }
